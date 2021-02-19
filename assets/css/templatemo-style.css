@@ -152,6 +152,7 @@ html {
     width: 100%;
     transition: all 0.5s;
     border-top: 2px solid #fff;
+
 }
 
 .main-nav li:hover a,
@@ -269,6 +270,7 @@ html {
   width: 20%;
   will-change: transform;
   z-index: 9999 !important;
+  text-align: center;
 }
 
 .menu-toggle {
